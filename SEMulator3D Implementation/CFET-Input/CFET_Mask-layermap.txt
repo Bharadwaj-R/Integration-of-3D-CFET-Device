@@ -1,0 +1,8 @@
+Support                     6     0  
+Gate                        3     0  
+Patterning                  7     0  
+STI                         1     0  
+Substrate                   0     0  
+Stack                       2     0  
+Spacers                     4     0  
+SD                          5     0  

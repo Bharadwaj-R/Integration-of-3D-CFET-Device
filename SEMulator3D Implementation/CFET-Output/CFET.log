@@ -1,0 +1,201 @@
+22:44:43 INFO   Loading Assembly file: D:/IISc Bangalore/Semester - I/NE 303 - Semiconductor Process Integration/Project/SEMulator3D_Implementation/Alt/CFET.zam
+22:44:50 INFO   Loading Analysis file: 
+22:44:50 INFO   Loading Process file: D:/IISc Bangalore/Semester - I/NE 303 - Semiconductor Process Integration/Project/SEMulator3D_Implementation/Alt/Alt.vproc
+22:45:44 INFO   Loading Material file: D:/IISc Bangalore/Semester - I/NE 303 - Semiconductor Process Integration/SEMulator Project Directory/apps/SEMulator3DMaterialsDatabase12.vmpd
+22:45:50 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:45:52 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:45:52 INFO   Saving build script: D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\__semu_CFET.py
+22:45:53 INFO : License server value is 54015@10.56.1.32.
+22:45:53 INFO : Platform is Windows, 64-bit.
+22:45:53 INFO : PRODUCT_NAME             SEMulator3D
+22:45:53 INFO : VERSION_BUILD_NUMBER     12.0.0.0
+22:45:53 INFO : VERSION_BUILD_TIMESTAMP  Wed Jun 19 19:56:31 2024
+22:45:53 INFO : 
+
+22:46:06 INFO   Default number of parallel workers = 8
+22:46:06 INFO   Adding new input file path: D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\
+22:46:36 ERROR   Failed to obtain feature list: License server machine is down or not responding.
+ See the system administrator about starting the license server system, or
+ make sure you're referring to the right host (see LM_LICENSE_FILE).
+Hostname:      CENSEESSL
+License path:  54015@10.56.1.32;
+FlexNet Licensing error:-96,7.  System Error: 11001 "WinSock: Host not found (HOST_NOT_FOUND)".
+22:47:06 INFO : 1:	Running WaferSetup ("Wafer Setup")
+22:47:06 INFO   Voxel Wafer resolution is 1 nm.
+22:47:09 INFO   Model bounds for new wafer are 50 by 50 voxels.
+22:47:09 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:09 INFO : 2:	Sequence ("STI")
+22:47:09 INFO : 2.1:	Running Deposit ("Resist Deposit")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 2.2:	Running ExposeMaterial ("Expose Material")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 2.3:	Running RemoveMaterials ("Resist Removal")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 2.4:	Running Etch ("RIE Trench Etch")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 2.5:	Running Deposit ("Oxide Deposit")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 2.6:	Running Polish ("Lift Off")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 3:	Sequence ("Channel Stack")
+22:47:10 INFO : 3.1:	Running Deposit ("Straight Deposit")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 3.2:	Running Deposit ("Straight Deposit")
+22:47:10 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:10 INFO : 3.3:	Running Deposit ("Straight Deposit")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 3.4:	Running Deposit ("Straight Deposit")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 3.5:	Running Deposit ("Resist Deposit")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 3.6:	Running ExposeMaterial ("Expose Material")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 3.7:	Running RemoveMaterials ("Resist Removal")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 3.8:	Running Etch ("Straight RIE")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 3.9:	Running RemoveMaterials ("Polymer Removal")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 4:	Sequence ("Oxide Support")
+22:47:11 INFO : 4.1:	Running Deposit ("Oxide Deposit")
+22:47:11 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:11 INFO : 4.2:	Running Deposit ("Resist Deposit")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 4.3:	Running ExposeMaterial ("Expose Material")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 4.4:	Running RemoveMaterials ("Resist Removal")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 4.5:	Running Etch ("Straight RIE")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 4.6:	Running RemoveMaterials ("Polymer Removal")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 5:	Running Etch ("SiGe Etch")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 6:	Sequence ("RMG HighK")
+22:47:12 INFO : 6.1:	Running Deposit ("Resist Deposit")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 6.2:	Running ExposeMaterial ("Expose Material")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 6.3:	Running RemoveMaterials ("Resist Removal")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 6.4:	Running Deposit ("Planar Deposit")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 6.5:	Running Deposit ("Planar Deposit")
+22:47:12 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:12 INFO : 6.6:	Running Deposit ("Planar Deposit")
+22:47:13 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:13 INFO : 6.7:	Running Deposit ("Planar Deposit")
+22:47:13 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:13 INFO : 6.8:	Running Deposit ("Planar Deposit")
+22:47:13 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:13 INFO : 6.9:	Running Deposit ("Planar Deposit")
+22:47:13 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:13 INFO : 6.10:	Running Deposit ("Planar Deposit")
+22:47:13 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:13 INFO : 6.11:	Running Deposit ("Planar Deposit")
+22:47:13 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:13 INFO : 6.12:	Running Deposit ("Planar Deposit")
+22:47:14 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:14 INFO : 6.13:	Running Deposit ("Planar Deposit")
+22:47:14 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:14 INFO : 6.14:	Running RemoveMaterials ("Polymer Removal ")
+22:47:14 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:14 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:14 INFO : 7:	Running Etch ("Oxide Support Etch")
+22:47:14 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:14 INFO : 8:	Sequence ("Source-Drain")
+22:47:14 INFO : 8.1:	Running Deposit ("SiGe Deposit")
+22:47:14 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:14 INFO : 8.2:	Running Deposit ("Si Deposit")
+22:47:14 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:14 INFO : 8.3:	Running Deposit ("SiGe Deposit")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.4:	Running Deposit ("Si Deposit")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.5:	Running Deposit ("Resist Deposit")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.6:	Running ExposeMaterial ("Expose Material")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.7:	Running RemoveMaterials ("Resist Removal")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.8:	Running Etch ("Straight RIE")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.9:	Running RemoveMaterials ("Polymer Removal")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.10:	Running Etch ("SiGe Etch")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.11:	Running Deposit ("Isolation Oxide Deposit")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.12:	Running Deposit ("Resist Deposit")
+22:47:15 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:15 INFO : 8.13:	Running ExposeMaterial ("Expose Material")
+22:47:16 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:16 INFO : 8.14:	Running RemoveMaterials ("Resist Removal")
+22:47:16 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:16 INFO : 8.15:	Running Etch ("Straight RIE")
+22:47:16 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:16 INFO : 8.16:	Running RemoveMaterials ("Polymer Removal")
+22:47:16 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:16 INFO : 8.17:	Running Diffusion ("S/D Activation Anneal")
+22:47:24 INFO   The value of Diffusivity of /NType/As in /Silicon/SiGe is:5.30527e-13cm^2/sec
+22:47:24 INFO   The value of Diffusivity of /NType/As in /Silicon/Si_Amorph is:5.30527e-13cm^2/sec
+22:47:24 INFO   The value of Diffusivity of /NType/As in /Silicon/Si_Xtal is:5.30527e-13cm^2/sec
+22:47:24 INFO   Skipping diffusion of /NType/As, since it is not present in model.
+22:47:24 INFO   The value of Diffusivity of /PType/B in /Silicon/Si_Xtal is:6.4649e-12cm^2/sec
+22:47:24 WARN   The value of diffusivity of /PType/B in /Silicon/Si_Xtal is too high and may cause the diffusion step to run very slow.
+22:47:24 INFO   The value of Diffusivity of /PType/B in /Oxides/SiO2_TEOS is:2.09543e-14cm^2/sec
+22:47:24 INFO   The value of Diffusivity of /PType/B in /Oxides/HfOx is:2.09543e-14cm^2/sec
+22:47:24 INFO   The value of Diffusivity of /PType/B in /Oxides/SiO2_PECVD is:2.09543e-14cm^2/sec
+22:47:24 INFO   The value of Diffusivity of /PType/B in /Silicon/SiGe is:6.4649e-12cm^2/sec
+22:47:24 WARN   The value of diffusivity of /PType/B in /Silicon/SiGe is too high and may cause the diffusion step to run very slow.
+22:47:24 INFO   The value of Diffusivity of /PType/B in /Silicon/Si_Amorph is:6.4649e-12cm^2/sec
+22:47:24 WARN   The value of diffusivity of /PType/B in /Silicon/Si_Amorph is too high and may cause the diffusion step to run very slow.
+22:47:24 INFO   Before /PType/B diffusion: min/max = 0, 1e+16	atoms/cm^3
+22:47:24 INFO   Total amount of dopant atoms = 0.0363623
+22:47:24 INFO   Diffusion Solver 0.0% complete.
+22:47:25 INFO   Diffusion Solver 10.2% complete.
+22:47:25 INFO   Diffusion Solver 20.5% complete.
+22:47:25 INFO   Diffusion Solver 30.7% complete.
+22:47:25 INFO   Diffusion Solver 40.9% complete.
+22:47:25 INFO   Diffusion Solver 51.6% complete.
+22:47:25 INFO   Diffusion Solver 62.1% complete.
+22:47:25 INFO   Diffusion Solver 72.6% complete.
+22:47:25 INFO   Diffusion Solver 83.1% complete.
+22:47:25 INFO   Diffusion Solver 93.5% complete.
+22:47:25 INFO   Total amount of dopant atoms = 0.0357826
+22:47:25 INFO   After /PType/B diffusion: min/max = 0, 6.40745e+15	atoms/cm^3 (change made)
+22:47:25 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:25 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:25 INFO : 9:	Sequence ("Nitride Spacers")
+22:47:25 INFO : 9.1:	Running Deposit ("Resisit Deposit")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 9.2:	Running ExposeMaterial ("Expose Material")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 9.3:	Running RemoveMaterials ("Resist Removal")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 9.4:	Running Deposit ("Nitride Deposit")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 9.5:	Running RemoveMaterials ("Polymer Removal")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 10:	Sequence ("Gate Metal")
+22:47:26 INFO : 10.1:	Running Deposit ("Resist Deposit")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 10.2:	Running ExposeMaterial ("Expose Material")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 10.3:	Running RemoveMaterials ("Resist Removal")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 10.4:	Running Etch ("RMG Etch")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 10.5:	Running Deposit ("Metal Deposit")
+22:47:26 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:26 INFO : 10.6:	Running RemoveMaterials ("Polymer Removal")
+22:47:27 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:27 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:27 INFO   Saving assembly file "D:\IISc Bangalore\Semester - I\NE 303 - Semiconductor Process Integration\Project\SEMulator3D_Implementation\Alt\CFET.zam".
+22:47:27 INFO : Build process completed.
+22:47:27 INFO : Elapsed Time 93 seconds.
+Build log file moved to : D:/IISc Bangalore/Semester - I/NE 303 - Semiconductor Process Integration/Project/SEMulator3D_Implementation/Alt/CFET-Output/CFET.log

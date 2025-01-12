@@ -1,0 +1,27 @@
+
+<SceneGraph ColorMode="Material">
+
+  <DocumentProperties>
+    <ModelProperties IsComplete="false" ModelResolution="1.0" ModelUnits="nm"/>
+    <Version App="SEMulator3D" AppVersion="12.0.0.0" Number="2.2.12.0"/>
+    <LayoutFile Filename="CFET_Mask.cat" TopCell="Mask"/>
+    <ProcessFile Filename="Alt.vproc"/>
+    <Zones Number="1"/>
+    <Output Directory="Alt-Output/" Enabled="true" ExtractFragments="false"/>
+    <ManagerProperties CropOption="false" LayerMapFileName="" RunType="Start From Blank" StartViewer="true"/>
+    <ModelArea BoundingMask="Substrate" Coordinates="0.0 0.0 0.0 0.0" PadBy="0.0" Type="Single Mask"/>
+    <UserProperties Author="routh" AutoRev="true" Comments="" CreatedOn="Sunday December 01, 2024 19:04:42" LastModified="Sunday December 01, 2024 19:04:42" Revision="528" Watermark=""/>
+    <SecurityProperties FileAccessRestriction=""/>
+  </DocumentProperties>
+
+  <material blue="50" green="50" name="default" red="50" visibility="true"/>
+
+  <Dopants/>
+
+  <Views/>
+
+  <Lights/>
+
+  <Analyses Comments="" Name="" Transparency="0.0" Visibility="true"/>
+
+</SceneGraph>
